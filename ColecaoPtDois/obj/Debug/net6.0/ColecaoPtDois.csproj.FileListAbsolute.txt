@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\bin\Debug\net6.0\ColecaoPtDois.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\bin\Debug\net6.0\ColecaoPtDois.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\bin\Debug\net6.0\ColecaoPtDois.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\bin\Debug\net6.0\ColecaoPtDois.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\bin\Debug\net6.0\ColecaoPtDois.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\refint\ColecaoPtDois.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ColecaoPtDois.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ColecaoPtDois\obj\Debug\net6.0\ref\ColecaoPtDois.dll
