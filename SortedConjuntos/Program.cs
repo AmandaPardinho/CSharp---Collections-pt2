@@ -31,6 +31,30 @@ namespace SortedConjuntos
                 Console.WriteLine(aluno);
             }
 
+            //declarando outro conjunto
+            ISet<string> outroConjunto = new HashSet<string>();
+
+            //o conjunto é subconjunto do conjunto alunos?
+            alunos.IsSubsetOf(outroConjunto);
+
+            //o conjunto é superconjunto do conjunto alunos? 
+            alunos.IsSupersetOf(outroConjunto);
+
+            //os conjuntos contêm os mesmos elementos? 
+            alunos.SetEquals(outroConjunto);
+
+            //subtrai os elementos da outra coleção que também estão neste conjunto
+            alunos.ExceptWith(outroConjunto);
+
+            //intersecção dos conjuntos 
+            alunos.IntersectWith(outroConjunto);
+
+            //somente em um ou outro conjunto
+            alunos.SymmetricExceptWith(outroConjunto);
+
+            //união de conjuntos
+            alunos.UnionWith(outroConjunto);
+
             Console.ReadKey();
         }
     }
