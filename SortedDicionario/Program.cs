@@ -47,6 +47,15 @@ namespace SortedDicionario
 
             Console.WriteLine("\n");
 
+            /* SortedDictionary:
+             * implementa uma árvore binária e, a partir dela, define a ordem dos elementos em relação aos nós
+             * a árvore é balanceada, ou seja, conforme o número de elementos aumenta, há um rearranjo dos nós para que ela fique mais larga que profunda
+             * é uma estrutura mais ágil que a SortedList devido a essa forma de árvore
+             * o rearranjo permite trafegar por menos elementos para chegar no elemento desejado
+             * os elementos à esquerda => possuem valor menor que o do nó
+             * os elementos à direita => possuem valor maior que o do nó
+             */
+
             //Criação de um SortedDictionary
             IDictionary<string, Aluno> sortedDict = new SortedDictionary<string, Aluno>();
             sortedDict.Add("VT", new Aluno("Vanessa", 34672));
