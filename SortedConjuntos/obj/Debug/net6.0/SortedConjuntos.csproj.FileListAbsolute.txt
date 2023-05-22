@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\bin\Debug\net6.0\SortedConjuntos.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\bin\Debug\net6.0\SortedConjuntos.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\bin\Debug\net6.0\SortedConjuntos.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\bin\Debug\net6.0\SortedConjuntos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\bin\Debug\net6.0\SortedConjuntos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\refint\SortedConjuntos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\SortedConjuntos.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedConjuntos\obj\Debug\net6.0\ref\SortedConjuntos.dll
