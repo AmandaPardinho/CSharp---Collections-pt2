@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\bin\Debug\net6.0\FamiliasFamosas.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\bin\Debug\net6.0\FamiliasFamosas.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\bin\Debug\net6.0\FamiliasFamosas.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\bin\Debug\net6.0\FamiliasFamosas.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\bin\Debug\net6.0\FamiliasFamosas.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\refint\FamiliasFamosas.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\FamiliasFamosas.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\FamiliasFamosas\obj\Debug\net6.0\ref\FamiliasFamosas.dll
