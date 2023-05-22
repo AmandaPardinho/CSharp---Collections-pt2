@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecaoPtDois", "ColecaoPtD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDicionario", "..\SortedDicionario\SortedDicionario.csproj", "{6FFEAF2C-6262-4C54-B574-F3DA3F048247}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedConjuntos", "..\SortedConjuntos\SortedConjuntos.csproj", "{AEFE3231-77E0-447A-8F43-63ABED7472B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6FFEAF2C-6262-4C54-B574-F3DA3F048247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FFEAF2C-6262-4C54-B574-F3DA3F048247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FFEAF2C-6262-4C54-B574-F3DA3F048247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFE3231-77E0-447A-8F43-63ABED7472B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFE3231-77E0-447A-8F43-63ABED7472B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFE3231-77E0-447A-8F43-63ABED7472B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFE3231-77E0-447A-8F43-63ABED7472B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
