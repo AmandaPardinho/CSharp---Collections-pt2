@@ -49,7 +49,9 @@ namespace ColecaoPtDois
             {
                 Console.WriteLine(item);
             }
+            
             Console.WriteLine("\n");
+            Console.ReadKey();
         }
     }
 }
