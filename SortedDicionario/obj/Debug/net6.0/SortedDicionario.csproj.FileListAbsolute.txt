@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\bin\Debug\net6.0\SortedDicionario.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\bin\Debug\net6.0\SortedDicionario.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\bin\Debug\net6.0\SortedDicionario.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\bin\Debug\net6.0\SortedDicionario.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\bin\Debug\net6.0\SortedDicionario.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\refint\SortedDicionario.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\SortedDicionario.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\SortedDicionario\obj\Debug\net6.0\ref\SortedDicionario.dll
