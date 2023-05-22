@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecaoPtDois", "ColecaoPtDois.csproj", "{1C8D2E66-BBE6-410A-BE67-C5A2BE415824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColecaoPtDois", "ColecaoPtDois.csproj", "{1C8D2E66-BBE6-410A-BE67-C5A2BE415824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDicionario", "..\SortedDicionario\SortedDicionario.csproj", "{6FFEAF2C-6262-4C54-B574-F3DA3F048247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedDicionario", "..\SortedDicionario\SortedDicionario.csproj", "{6FFEAF2C-6262-4C54-B574-F3DA3F048247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedConjuntos", "..\SortedConjuntos\SortedConjuntos.csproj", "{AEFE3231-77E0-447A-8F43-63ABED7472B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedConjuntos", "..\SortedConjuntos\SortedConjuntos.csproj", "{AEFE3231-77E0-447A-8F43-63ABED7472B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysMultidimensionais", "..\ArraysMultidimensionais\ArraysMultidimensionais.csproj", "{AA27E81A-B394-476F-A957-400AF60001B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysMultidimensionais", "..\ArraysMultidimensionais\ArraysMultidimensionais.csproj", "{AA27E81A-B394-476F-A957-400AF60001B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamiliasFamosas", "..\FamiliasFamosas\FamiliasFamosas.csproj", "{C87BD1BB-FC7C-4C60-86E5-E2AD9ADE64A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AA27E81A-B394-476F-A957-400AF60001B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA27E81A-B394-476F-A957-400AF60001B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA27E81A-B394-476F-A957-400AF60001B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87BD1BB-FC7C-4C60-86E5-E2AD9ADE64A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87BD1BB-FC7C-4C60-86E5-E2AD9ADE64A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87BD1BB-FC7C-4C60-86E5-E2AD9ADE64A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87BD1BB-FC7C-4C60-86E5-E2AD9ADE64A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
