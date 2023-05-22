@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\bin\Debug\net6.0\ArraysMultidimensionais.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\bin\Debug\net6.0\ArraysMultidimensionais.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\bin\Debug\net6.0\ArraysMultidimensionais.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\bin\Debug\net6.0\ArraysMultidimensionais.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\bin\Debug\net6.0\ArraysMultidimensionais.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\refint\ArraysMultidimensionais.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ArraysMultidimensionais.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ArraysMultidimensionais\obj\Debug\net6.0\ref\ArraysMultidimensionais.dll
