@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\bin\Debug\net6.0\OperadoresConjuntos.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\bin\Debug\net6.0\OperadoresConjuntos.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\bin\Debug\net6.0\OperadoresConjuntos.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\bin\Debug\net6.0\OperadoresConjuntos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\bin\Debug\net6.0\OperadoresConjuntos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\refint\OperadoresConjuntos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\OperadoresConjuntos.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\OperadoresConjuntos\obj\Debug\net6.0\ref\OperadoresConjuntos.dll
