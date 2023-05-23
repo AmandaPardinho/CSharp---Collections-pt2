@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\bin\Debug\net6.0\ConsultaColecao.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\bin\Debug\net6.0\ConsultaColecao.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\bin\Debug\net6.0\ConsultaColecao.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\bin\Debug\net6.0\ConsultaColecao.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\bin\Debug\net6.0\ConsultaColecao.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\refint\ConsultaColecao.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ConsultaColecao.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections-pt2\ConsultaColecao\obj\Debug\net6.0\ref\ConsultaColecao.dll
